@@ -4,9 +4,27 @@
   "description": "Details and sample code for building a Progressive Web Application",
   "main": "db.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "lite-server": "^2.6.1",
+    "mongodb": "^3.6.10",
+    "mongoose": "^3.6.10",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewtrudeau/19-Progressive-Budget"
+  },
+  "bugs": {
+    "url": "https://github.com/andrewtrudeau/19-Progressive-Budget"
+  },
+  "homepage": "https://github.com/andrewtrudeau/19-Progressive-Budget"
 }
