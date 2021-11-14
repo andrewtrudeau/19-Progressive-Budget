@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "lite-server": "^2.6.1",
     "mongodb": "^3.6.10",
-    "mongoose": "^3.6.10",
+    "mongoose": "^3.9.7",
     "morgan": "^1.10.0"
   },
   "devDependencies": {},
