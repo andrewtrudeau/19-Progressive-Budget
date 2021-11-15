@@ -22,8 +22,6 @@ Open the page and test with internet. Then turn off the internet and test the ap
 
 [Heroku](https://hw19-pwa-andrew-trudeau.herokuapp.com/)
 
-This is the ONLY app I tried to deploy that would refuse to deploy. So the Heroku link doesn't work but I did all the requirements. There was a lack of version control with the src code of this HW and version conflicts. I give up at this point.
-
 ## Contact
 
 If you wish to reach me for questions, please refer to the contact information below:
